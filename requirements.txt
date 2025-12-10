@@ -1,0 +1,6 @@
+
+torch
+streamlit
+openai-whisper
+gTTS
+pydub
